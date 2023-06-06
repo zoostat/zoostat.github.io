@@ -3,16 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "zoostat.github.io"
+  title: "ZooStat"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - blog.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: zephyr
     css: styles.css
     toc: true
 

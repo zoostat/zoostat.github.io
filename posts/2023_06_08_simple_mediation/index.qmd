@@ -1,0 +1,15 @@
+---
+title: "Doing mediation analysis with R"
+description: "Doing mediation analysis with R"
+author:
+  - name: Sabyasachi Patra
+    url: https://zoostat.github.io/
+    affiliation: Indian Institute of Management Kashipur
+    affiliation-url: http://iimkashipur.ac.in 
+date: 08/06/2023
+categories: [Regression, Mediation, R] # self-defined categories
+citation: 
+  url: https://zoostat.github.io/posts/2023-06-08-simple-mediation/ 
+#image: preview_image.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---

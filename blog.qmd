@@ -1,0 +1,9 @@
+---
+title: "ZooStat Blog"
+listing:
+  id: sample-listings
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---

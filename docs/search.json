@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "ZooStat Blog",
+    "section": "",
+    "text": "Doing mediation analysis with R\n\n\n\n\n\n\n\nRegression\n\n\nMediation\n\n\nR\n\n\n\n\nDoing mediation analysis with R\n\n\n\n\n\n\nAug 6, 2023\n\n\nSabyasachi Patra\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2023_06_08_simple_mediation/index.html",
+    "href": "posts/2023_06_08_simple_mediation/index.html",
+    "title": "Doing mediation analysis with R",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{patra2023,\n  author = {Sabyasachi Patra},\n  title = {Doing Mediation Analysis with {R}},\n  date = {2023-08-06},\n  url = {https://zoostat.github.io/posts/2023-06-08-simple-mediation/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSabyasachi Patra. 2023. “Doing Mediation Analysis with R.”\nAugust 6, 2023. https://zoostat.github.io/posts/2023-06-08-simple-mediation/."
   }
 ]
